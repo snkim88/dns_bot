@@ -1,0 +1,6 @@
+var config = {};
+
+config.token = 'your_bot_api_key';
+config.nic = 'network interface name'
+
+module.exports = config;
